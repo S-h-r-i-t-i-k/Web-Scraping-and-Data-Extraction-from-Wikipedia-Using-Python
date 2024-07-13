@@ -10,8 +10,10 @@ Python
 BeautifulSoup
 Requests
 Pandas
-Details:
 
-Web Scraping: Utilized the requests library to fetch the HTML content of the Wikipedia page.
-Data Parsing: Employed BeautifulSoup to parse the HTML and extract relevant data from the table containing company information.
-Data Structuring: Created a Pandas DataFrame to store the extracted data in a structured format, making it suitable for analysis and further processing.
+
+**Details:**
+
+**Web Scraping:** Utilized the requests library to fetch the HTML content of the Wikipedia page.
+**Data Parsing:** Employed BeautifulSoup to parse the HTML and extract relevant data from the table containing company information.
+**Data Structuring:** Created a Pandas DataFrame to store the extracted data in a structured format, making it suitable for analysis and further processing.
